@@ -142,11 +142,9 @@ console.log("firstName =", firstName);
 // Add a comment above each line explaining what it does.
 // ============================================================
 
-// TODO: Add a comment above this line:
 // City Variable
 let city = "Indianapolis";
 
-// TODO: Add a comment above this line:
 // Prints Cirt Variable
 console.log("city =", city);
 
